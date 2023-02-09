@@ -1,4 +1,4 @@
-# 👨🏻‍💻 [Gulshan Kumar](https://anuragsingh.dev) [@ashleymavericks](https://anuragsingh.dev)
+# 👨🏻‍💻 [Gulshan Kumar](https://anuragsingh.dev) [@kgulshan205](https://anuragsingh.dev)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ashleymavericks?style=social)](https://twitter.com/intent/follow?screen_name=ashleymavericks)
 [![GitHub followers](https://img.shields.io/github/followers/ashleymavericks?label=Follow&style=social)](https://github.com/ashleymavericks/?tab=follow)
